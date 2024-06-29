@@ -70,7 +70,7 @@ function isMobileDevice() {
 if (isMobileDevice()) {
     createLetters(" ⟩ Udhay ⟩ Udhay", 124, 0, 'white' , 'forwards', 'set1');
 } else {
-    createLetters(" ⟩ Udhay ⟩ Udhay", 124, 0, 'white' , 'forwards','set1');
+    createLetters(" ⟩ Sahiti ⟩ Sahiti", 124, 0, 'white' , 'forwards','set1');
     createLetters(" ⟨ Happy Birthday ⟨ Happy Birthday ⟨ Happy Birthday", 200, 0, 'white', 'backwards','set2');
 }
 
