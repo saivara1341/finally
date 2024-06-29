@@ -1,0 +1,11 @@
+# my awsome webpage
+## Project Structure
+
+```plaintext
+.
+├── login.html        # login HTML file
+├── index.html            # main HTML file
+├── style.css         # CSS file for styling
+├── login.js          # JavaScript file for login functionality
+├── script.js         # JavaScript file for main page functionality
+└── README.md         # This README file
